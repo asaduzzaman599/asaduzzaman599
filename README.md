@@ -9,11 +9,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me asaduzzamansoumit@gmail.com
 
-## Connect With Me:
-<p>
- <a  href="https://www.facebook.com/asaduzzaman.soumit.5/" target="_blank"><img width="48px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-facebook-social-media-justicon-flat-justicon.png"/></a>
- <a href="https://www.linkedin.com/in/mohammad-asaduzzaman-5512441aa/" target="_blank"><img width="48px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/></a>
-</p>
 
 ## 🚀 Languages and Tools
 <p>
@@ -34,7 +29,15 @@
 </p>
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaduzzaman599&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=asaduzzaman599&&show_icons=true&title_color=0080ff&icon_color0080ff&text_color=151515&bg_color=e6ffff">
+
+## Connect With Me:
+<p>
+ <a  href="https://www.facebook.com/asaduzzaman.soumit.5/" target="_blank"><img width="48px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-facebook-social-media-justicon-flat-justicon.png"/></a>
+ <a href="https://www.linkedin.com/in/mohammad-asaduzzaman-5512441aa/" target="_blank"><img width="48px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/></a>
+</p>
+
 
 <!---
 asaduzzaman599/asaduzzaman599 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
