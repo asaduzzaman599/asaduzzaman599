@@ -11,8 +11,8 @@
 
 ## Connect With Me:
 <p>
- <a href="https://www.facebook.com/asaduzzaman.soumit.5/"><img width="48px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-facebook-social-media-justicon-flat-justicon.png"/></a>
- <a href="https://www.linkedin.com/in/mohammad-asaduzzaman-5512441aa/"><img width="48px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/></a>
+ <a target="_blank" href="https://www.facebook.com/asaduzzaman.soumit.5/"><img width="48px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-facebook-social-media-justicon-flat-justicon.png"/></a>
+ <a target="_blank" href="https://www.linkedin.com/in/mohammad-asaduzzaman-5512441aa/"><img width="48px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/></a>
 </p>
 
 ## 🚀 Languages and Tools
