@@ -4,8 +4,8 @@
 
 
 - 👋 Hi, I’m @asaduzzaman599
-- 👀 I’m interested in full stack web development and android app development
-- 🌱 I’m currently learning  full stack web development
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently working  mern stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me asaduzzamansoumit@gmail.com
 
