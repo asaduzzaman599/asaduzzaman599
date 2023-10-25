@@ -17,14 +17,14 @@
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/?size=48&id=wPohyHO_qO1a&format=png"/>
-  <img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png"/>
+  <img src="https://img.icons8.com/?size=48&id=r2OarXWQc7B6&format=png"/>
 <!--   -->
  
   <img src="https://img.icons8.com/?size=48&id=9ESZMOeUioJS&format=png"/>
-  <img src="https://img.icons8.com/?size=48&id=kg46nzoJrmTR&format=png"/>
+  <img src="https://img.icons8.com/?size=40&id=WNoJgbzDr3i2&format=png"/>
   <img src="https://img.icons8.com/?size=48&id=54087&format=png"/>
   <img src="https://img.icons8.com/?size=48&id=74402&format=png"/>
-  <img src="https://img.icons8.com/?size=50&id=aqb9SdV9P8oC&format=png"/>
+  <img src="https://img.icons8.com/?size=48&id=zJh5Gyrd6ZKu&format=png"/>
   
   <img width="48px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-debug-coding-and-development-flat-flat-juicy-fish.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
