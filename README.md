@@ -16,8 +16,8 @@
   <img width="48px" src="https://img.icons8.com/color/30/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/?size=40&id=bzf0DqjXFHIW&format=png"/>
   <img src="https://img.icons8.com/?size=48&id=AU6Wc7r56Fxz&format=png"/>
-  <img src="https://img.icons8.com/?size=48&id=r2OarXWQc7B6&format=png"/>
 <!--   -->
  
   <img src="https://img.icons8.com/?size=48&id=9ESZMOeUioJS&format=png"/>
