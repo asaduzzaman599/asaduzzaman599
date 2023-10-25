@@ -16,7 +16,7 @@
   <img width="48px" src="https://img.icons8.com/color/30/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/?size=80&id=wPohyHO_qO1a&format=png"/>
+  <img src="https://img.icons8.com/?size=48&id=wPohyHO_qO1a&format=png"/>
   <img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png"/>
   <img width="48px" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-debug-coding-and-development-flat-flat-juicy-fish.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
